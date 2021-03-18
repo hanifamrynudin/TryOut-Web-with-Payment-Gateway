@@ -1,0 +1,7 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-02-09 07:32:19 --> Severity: error --> Exception: Midtrans Error (401): Access denied due to unauthorized transaction, please check client or server key,Visit https://snap-docs.midtrans.com/#request-headers for more details C:\laragon\www\migrasi\application\libraries\Midtrans.php 136
+ERROR - 2021-02-09 07:32:35 --> Severity: error --> Exception: Midtrans Error (401): Access denied due to unauthorized transaction, please check client or server key,Visit https://snap-docs.midtrans.com/#request-headers for more details C:\laragon\www\migrasi\application\libraries\Midtrans.php 136
+ERROR - 2021-02-09 09:29:54 --> Severity: error --> Exception: Midtrans Error (401): Access denied due to unauthorized transaction, please check client or server key,Visit https://snap-docs.midtrans.com/#request-headers for more details C:\laragon\www\migrasi\application\libraries\Midtrans.php 136
+ERROR - 2021-02-09 09:30:32 --> Severity: error --> Exception: Midtrans Error (401): Access denied due to unauthorized transaction, please check client or server key,Visit https://snap-docs.midtrans.com/#request-headers for more details C:\laragon\www\migrasi\application\libraries\Midtrans.php 136
+ERROR - 2021-02-09 09:31:03 --> Severity: error --> Exception: Midtrans Error (401): Access denied due to unauthorized transaction, please check client or server key,Visit https://snap-docs.midtrans.com/#request-headers for more details C:\laragon\www\migrasi\application\libraries\Midtrans.php 136
