@@ -1,13 +1,13 @@
 This tryout website is an open source from savsoft and I added payment gateway from midtrans
 <br>
+This program use php language with CodeIgniter framework
 <br>
 Video Demo :
 https://github.com/hanifamrynudin/Web-TryOut-with-Payment-Gateway/tree/main/demo
 <br>
-This program use php language with CodeIgniter framework
-<br>
 <br>
 ScreenShots :
+<br>
 ![Screenshot (291)](https://user-images.githubusercontent.com/20903503/111561818-aa47b580-87c7-11eb-90fa-c44ce5b3e8f2.png)
 ![Screenshot (292)](https://user-images.githubusercontent.com/20903503/111561848-b9c6fe80-87c7-11eb-94f6-7e22f023f40c.png)
 ![Screenshot (293)](https://user-images.githubusercontent.com/20903503/111561857-bf244900-87c7-11eb-8205-3c54542ecb6c.png)
